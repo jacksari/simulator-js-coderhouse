@@ -1,0 +1,6 @@
+
+let products = [];
+
+export {
+  products,
+}
